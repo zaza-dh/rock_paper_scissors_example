@@ -1,0 +1,7 @@
+venv*/
+rock_paper_scissor*.egg-info/*
+.pytest_cache/*
+.cache/*
+.idea/*
+*/__pycache__/*
+*/tests/__pycache__/*
